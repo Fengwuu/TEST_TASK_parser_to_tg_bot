@@ -1,4 +1,4 @@
-## TEST_TASK_parser_to_tg_bot
+## TEST_TASK article parser for telegram  bot
 
 
 ## Description
