@@ -37,7 +37,7 @@ python -m venv venv
 venv/Scripts/activate for WIN, and source env/bin/activate for Linux/Unix
 pip install requirements.txt
 ```
-##RUN
+## RUN
 Create .env file and fill it
 ```bash
 python main.py
